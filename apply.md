@@ -28,13 +28,13 @@ The following items may disqualify rental acceptance:
 The following items may disqualify rental acceptance:
 
 * Bankruptcy: Applicant is eligible immediately after the date of the order of discharge for a Chapter 7 or Chapter 13 bankruptcy.
-* Credit history will be weighed in conjunction with all other rental criteria. Minnesota Home Rental Inc. reserves the right to deny any applicant based solely on a history of any delinquent credit activity. (Medical expenses and foreclosures are exempt).
+* Credit history will be weighed in conjunction with all other rental criteria. We reserve the right to deny any applicant based solely on a history of any delinquent credit activity. (Medical expenses and foreclosures are exempt).
 * Applicants with no previous credit history will be required to provide a co-signer who meets the income and credit requirements of the Rental Acceptance Criteria, or furnish additional funds as determined by Landlord including but not necessarily limited to an increased security deposit at twice the deposit amount in effect at the time of approval or last month’s rent paid in advance.
 
 ## IV. Criminal / Background Check:
 
 * All applicants require a criminal background check. If residency in current state does not exceed five (5) years, additional reports are required from all previous states that applicant resided in the last 5 years.
-* Felony convictions will disqualify an applicant for life from being a resident including, without limitation felony DWI’s. Registered sex offenders will be disqualified for life.
+* Felony convictions and registered sex offender status disqualifies an applicant from being a resident. 
 * Misdemeanor convictions or gross misdemeanor convictions will disqualify an applicant for up to three (3) years on crimes against persons, property or drug related illegal activity. The time period starts upon the date of the disposition of the crime.
 
 ## V. Proper Identification:
@@ -44,3 +44,5 @@ The following items may disqualify rental acceptance:
 * Passport
 * Permanent Resident Card
 * Visa
+
+[![Apply Now](https://app.appsingular.com/assets/images/app-appsingular/apply-now.png)](https://app.appsingular.com/rental-application/F95FL)
